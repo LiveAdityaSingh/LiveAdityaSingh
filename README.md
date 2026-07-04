@@ -1,88 +1,30 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=300&section=header&text=Aditya%20Narayan%20Singh&fontSize=90&fontColor=f59e0b&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Engineer%20%7C%20MLOps&descAlignY=55&descAlign=62" width="100%" />
-</div>
+## Aspirational Roles:
+# MLOps Engineer | Data Scientist | ML & AI Researcher
 
-<h3 align="center">Transforming complex datasets into production-ready AI systems & scalable data pipelines 🚀</h3>
+# 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/385893505442250762) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singhofficial/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityansingh2897@gmail.com)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aditya-singhofficial" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adityansingh2897@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://liveadityasingh.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=f59e0b" alt="Portfolio" />
-  </a>
-</div>
+# 🏆 Featured Projects
 
-<br/>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Self-Workout Trainer** | Academic project which implemented skeletal posture analysis for training a model which gives warning when the user in frame is doing exercise with wrong posture. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PoseAnalyzer](https://img.shields.io/badge/PoseAnalyzer-FF4B4B?style=flat-square&logo=pypi&logoColor=white) |
+| **Population & Health Metrics Analysis:** | R-studio and PowerBI based data analysis project showing **10% increase in mortality rate** correlated with literacy levels and state-wise demographic data. | ![Power BI](https://img.shields.io/badge/Power_BI-150458?style=flat-square&logo=powerbi&logoColor=white)  ![R-Studio](https://img.shields.io/badge/RStudio-FF4B4B?style=flat-square&logo=rstudio&logoColor=white) |
+| **Defect Recognition Model:** | Trained a model for recognizing defects in circular steel components using pattern recognition method with almost perfect accuracy. | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3776AB?style=flat-square&logo=tensorflow&logoColor=white) |
 
-## 👨‍💻 About Me
+# 💻 Tech Stack:
 
-Hi there! 👋 I am an AI & Data Engineer based in **Birmingham, UK**, currently pursuing an **MSc in Artificial Intelligence & Machine Learning** at the University of Birmingham. 
+### 🧠 AI, GenAI & Data Science
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-%232088FF?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-%23117AC9.svg?style=for-the-badge&logo=xgboost&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-Prior to my masters, I spent **3 years** as a Data Engineering Analyst at **Accenture**, where I architected end-to-end predictive data pipelines, scaled ETL architectures for 300M+ records, and served containerized deep learning models to production using GCP, Vertex AI, and Kubernetes.
+### ☁️ Cloud, DevOps & Scaling
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%23FF9900.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23EE4C2C.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell](https://img.shields.io/badge/Shell_Scripting-232F3E?style=for-the-badge&logo=powershell&logoColor=white)
 
-- 🎓 **Current:** MSc AI & Machine Learning @ University of Birmingham (2025–2026)
-- 💼 **Experience:** Ex-Data Engineering Analyst @ Accenture (3 Years)
-- 🏆 **Awards:** HealthTech AI 2026 Winner | FrontierTechX Loyalty Program Winner
-- 🌱 **Learning:** Currently diving deeper into evolutionary computation and multi-agent GenAI frameworks.
+### 📈 Data Visualization & Analytics
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![R-Studio](https://img.shields.io/badge/RStudio-FF4B4B?style=for-the-badge&logo=rstudio&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%2332088FF.svg?style=for-the-badge&logo=seaborn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23EE4C2C.svg?style=for-the-badge&logo=matplotlib&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
----
+### 🌐 Enterprise Dev
+![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB) ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <b>Languages</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>AI & Machine Learning</b><br/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=flat-square&logo=huggingface&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Data Engineering & Cloud</b><br/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-</p>
-
----
-
-## 🏅 Certifications
-
-* **Google Cloud:** Professional Data Engineer (Oct 2024)
-* **Microsoft:** Certified Azure AI Engineer Associate (Dec 2024)
-* **IIT Kanpur:** Artificial Intelligence Certification (Jul 2022)
-* **DeepLearning.AI:** Neural Networks and Deep Learning (Aug 2021)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiveAdityaSingh&show_icons=true&theme=nord&hide_border=true&bg_color=0B1120&title_color=f59e0b&text_color=94a3b8&icon_color=f59e0b" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiveAdityaSingh&layout=compact&theme=nord&hide_border=true&bg_color=0B1120&title_color=f59e0b&text_color=94a3b8" height="192px"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <i>Let's build something awesome together! Feel free to reach out via <a href="mailto:adityansingh2897@gmail.com">email</a> or <a href="https://www.linkedin.com/in/aditya-singhofficial">LinkedIn</a>.</i>
-</div>
+### 💻 Languages
+![Python](https://img.shields.io/badge/python-%230FF9900.svg?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
