@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=300&section=header&text=Aditya%20Singh&fontSize=90&fontColor=f59e0b&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Engineer%20%7C%20MLOps&descAlignY=55&descAlign=62" width="100%" />
+</div>
+
+
 ## Aspirational Roles:
 # MLOps Engineer | Data Scientist | ML & AI Researcher
 
