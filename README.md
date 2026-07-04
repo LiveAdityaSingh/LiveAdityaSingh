@@ -1,8 +1,8 @@
-![Aditya Singh Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=300&section=header&text=Aditya%20Singh&fontSize=90&fontColor=f59e0b&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Engineer%20%7C%20MLOps&descAlignY=55&descAlign=62)
+![Aditya Singh Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=300&section=header&text=Aditya%20Singh&fontSize=90&fontColor=f59e0b&animation=fadeIn&fontAlignY=38&desc=Hello%20%7C%20%E0%A8%B8%E0%A8%A4%E0%A8%BF%20%E0%A8%B6%E0%A9%8D%E0%A8%B0%E0%A9%80%20%E0%A8%85%E0%A8%95%E0%A8%BE%E0%A8%B2%20%7C%20%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%7C%20Hallo%20%7C%20%E4%BD%A0%E5%A5%BD%20%7C%20Ciao&descAlignY=55&descAlign=62)
 
 
 ## Aspirational Roles:
-# MLOps Engineer | Data Scientist | ML & AI Researcher
+# MLOps Engineer | AI Engineer | Data Scientist
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/385893505442250762) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singhofficial/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityansingh2897@gmail.com)
